@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17657 16235 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_request_type);
+      }
+
+      .cls-2 {
+        fill: #55d978;
+      }
+    </style>
+    <clipPath id="clip-ic_request_type">
+      <rect x="17657" y="16235" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_request_type" class="cls-1">
+    <path id="Home" class="cls-2" d="M50.617.077a2.044,2.044,0,0,0-1.086.639L.659,51.568a2.057,2.057,0,1,0,3,2.811l6.452-6.708v54.494H91.886V47.671l6.452,6.708a2.056,2.056,0,1,0,3-2.811L52.469.716A2.045,2.045,0,0,0,50.617.077ZM51,5.06,87.8,43.391V98.077H65.31V55.146H36.69V98.077H14.2V43.391Zm20.443,5.111v6.2l4.089,4.217V14.26H79.62v10.6l4.089,4.28V10.171ZM40.778,59.235H61.221V98.077H40.778Z" transform="translate(17669.896 16245.869)"/>
+  </g>
+</svg>

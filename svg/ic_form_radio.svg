@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17657 17059 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_form_radio);
+      }
+    </style>
+    <clipPath id="clip-ic_form_radio">
+      <rect x="17657" y="17059" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_form_radio" class="cls-1">
+    <path id="Ok" d="M53,3a50,50,0,1,0,50,50A50.035,50.035,0,0,0,53,3Zm0,4.545A45.455,45.455,0,1,1,7.545,53,45.42,45.42,0,0,1,53,7.545Z" transform="translate(17668 17070)"/>
+  </g>
+</svg>

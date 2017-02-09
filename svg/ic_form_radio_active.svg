@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17805 17059 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_form_radio_active);
+      }
+
+      .cls-2 {
+        fill: #55d978;
+      }
+    </style>
+    <clipPath id="clip-ic_form_radio_active">
+      <rect x="17805" y="17059" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_form_radio_active" class="cls-1">
+    <path id="Ok_Filled" data-name="Ok Filled" class="cls-2" d="M53,3a50,50,0,1,0,50,50A50.056,50.056,0,0,0,53,3ZM49.6,74.659,28.977,56.05l3.045-3.373L48.675,67.7,73.591,29.041,77.414,31.5Z" transform="translate(17816 17070)"/>
+  </g>
+</svg>

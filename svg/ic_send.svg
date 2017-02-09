@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17657 15262 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_send);
+      }
+    </style>
+    <clipPath id="clip-ic_send">
+      <rect x="17657" y="15262" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_send" class="cls-1">
+    <path id="Paper_Plane_Filled" data-name="Paper Plane Filled" d="M89.318.385A1.776,1.776,0,0,0,87.377.226L.943,47.044a1.783,1.783,0,0,0,.3,3.263l24.569,8.018L23.428,82.65a1.783,1.783,0,0,0,3.11,1.356L42.032,66.5l23.335,23a1.775,1.775,0,0,0,1.252.513,1.835,1.835,0,0,0,.483-.067,1.777,1.777,0,0,0,1.246-1.284L89.956,2.227A1.777,1.777,0,0,0,89.318.385ZM29.425,57.99,64.557,29.584,40.614,62.735l-13.1,14.793Z" transform="translate(17674.99 15280.99)"/>
+  </g>
+</svg>

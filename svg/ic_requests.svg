@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17657 14425 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_requests);
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-ic_requests">
+      <rect x="17657" y="14425" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_requests" class="cls-1">
+    <g id="Rectangle_247" data-name="Rectangle 247" class="cls-2" transform="translate(17663 14431)">
+      <rect class="cls-3" width="116" height="116" rx="7"/>
+      <rect class="cls-4" x="2.5" y="2.5" width="111" height="111" rx="4.5"/>
+    </g>
+    <path id="Search" d="M31.141,3A27.141,27.141,0,1,0,47.006,52.142l21,20.954,4.49-4.49L51.745,47.8A27.138,27.138,0,0,0,31.141,3Zm0,3.193A23.948,23.948,0,1,1,7.193,30.141,23.923,23.923,0,0,1,31.141,6.193Z" transform="translate(17684 14451)"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17805 14425 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_requests_active);
+      }
+
+      .cls-2 {
+        fill: #55d978;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_requests_active">
+      <rect x="17805" y="14425" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_requests_active" class="cls-1">
+    <rect id="Rectangle_248" data-name="Rectangle 248" class="cls-2" width="116" height="116" rx="7" transform="translate(17811 14431)"/>
+    <path id="Search" class="cls-3" d="M31.141,3A27.141,27.141,0,1,0,47.006,52.142l21,20.954,4.49-4.49L51.745,47.8A27.138,27.138,0,0,0,31.141,3Zm0,3.193A23.948,23.948,0,1,1,7.193,30.141,23.923,23.923,0,0,1,31.141,6.193Z" transform="translate(17832 14451)"/>
+  </g>
+</svg>

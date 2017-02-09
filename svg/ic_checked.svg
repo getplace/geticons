@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="18545 15262 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_checked);
+      }
+
+      .cls-2 {
+        fill: #55d978;
+      }
+    </style>
+    <clipPath id="clip-ic_checked">
+      <rect x="18545" y="15262" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_checked" class="cls-1">
+    <path id="Ok" class="cls-2" d="M53,3a50,50,0,1,0,50,50A50.035,50.035,0,0,0,53,3Zm0,4.545A45.455,45.455,0,1,1,7.545,53,45.42,45.42,0,0,1,53,7.545Zm20.6,21.52L48.739,67.7,32.048,52.645l-3.054,3.409L47.6,72.886l1.989,1.776,1.42-2.273L77.432,31.48Z" transform="translate(18556 15273)"/>
+  </g>
+</svg>

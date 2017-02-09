@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17657 15638 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_rating);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 5px;
+      }
+    </style>
+    <clipPath id="clip-ic_rating">
+      <rect x="17657" y="15638" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_rating" class="cls-1">
+    <path id="Path_384" data-name="Path 384" class="cls-2" d="M339.79,13293.852l34.283-21.216,33.194,21.216-9.8-38.634,29.929-24.483-39.724-3.268-13.6-35.365-14.148,35.365-39.724,3.268,28.841,24.483Z" transform="translate(17347.4 2459.289)"/>
+  </g>
+</svg>

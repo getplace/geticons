@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17805 14613 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_chats_active);
+      }
+
+      .cls-2 {
+        fill: #55d978;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_chats_active">
+      <rect x="17805" y="14613" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_chats_active" class="cls-1">
+    <path id="Path_373" data-name="Path 373" class="cls-2" d="M56.571.5c30.967,0,56.071,21.443,56.071,47.894s-25.1,47.894-56.071,47.894a67.508,67.508,0,0,1-11.9-1.08c-3.019-.523-7.728,10.658-29.457,10.658.38-.467,5.841-5.841,7.983-18.88C9.778,78.705.5,64.475.5,48.394.5,21.943,25.6.5,56.571.5Z" transform="translate(17812 14624)"/>
+    <rect id="Rectangle_252" data-name="Rectangle 252" class="cls-3" width="41.301" height="4.13" transform="translate(17846.172 14659.059)"/>
+    <rect id="Rectangle_253" data-name="Rectangle 253" class="cls-3" width="49.561" height="4.13" transform="translate(17846.172 14671.448)"/>
+    <rect id="Rectangle_254" data-name="Rectangle 254" class="cls-3" width="33.041" height="4.13" transform="translate(17846.172 14683.839)"/>
+  </g>
+</svg>

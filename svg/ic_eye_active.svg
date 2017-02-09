@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="17805 15450 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_eye_active);
+      }
+    </style>
+    <clipPath id="clip-ic_eye_active">
+      <rect x="17805" y="15450" width="128" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="ic_eye_active" class="cls-1">
+    <path id="Visible_Filled" data-name="Visible Filled" d="M45.154,12.844C20.495,19.5,2.5,40.117,1.6,41.159a2.493,2.493,0,0,0,0,3.232C2.669,45.629,28.04,74.783,60.082,74.783s57.412-29.152,58.479-30.393a2.5,2.5,0,0,0,0-3.232c-.891-1.039-18.892-21.653-43.551-28.315a27.085,27.085,0,1,1-29.855,0ZM60.082,23.077A12.311,12.311,0,1,0,72.393,35.388,12.311,12.311,0,0,0,60.082,23.077Z" transform="translate(17808.992 15470.156)"/>
+  </g>
+</svg>
